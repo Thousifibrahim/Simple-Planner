@@ -1,5 +1,3 @@
-# 🚀 AI Todo Assistant - Production Ready
-
 > A cutting-edge AI-powered voice-controlled todo application with enterprise-grade architecture and seamless user experience.
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/yourusername/ai-todo-assistant)
@@ -9,88 +7,23 @@
 [![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF.svg)](https://vitejs.dev/)
 [![Status](https://img.shields.io/badge/status-Production%20Ready-green.svg)](https://github.com/smdspace-dev/AskTo-Do.git)
 
-## 🎯 Production Features (v2.0.0)
+#  AI Todo Assistant
 
-### ✅ Enterprise-Ready
+##  Features (v2.0.0)
+
+###  Enterprise-Ready
 - **Data Persistence**: Robust database layer with instant synchronization
 - **User Management**: Complete multi-user support with secure authentication
 - **Session Management**: Persistent user sessions across browser restarts
 - **Error Recovery**: Comprehensive error handling and user feedback
 
-### 🚀 Core Capabilities
+### Core Capabilities
 - **AI Voice Assistant**: Natural language processing for task creation and management
 - **Smart Task Parser**: Intelligent extraction of task details from voice commands
 - **Real-time Synchronization**: All changes saved instantly with immediate feedback
 - **Professional UI**: Consistent dark theme with smooth animations
 
-## 🚀 Features
-
-### 🎤 Voice Intelligence
-- **Natural Speech Recognition** - Talk to your AI assistant naturally
-- **Voice Synthesis Responses** - AI speaks back with contextual responses
-- **Multi-language Support** - English optimized with extensible language support
-- **Error Recovery** - Graceful handling of speech recognition failures
-
-### 🎨 Professional UI/UX
-- **Modern Dark Theme** - Consistent design with professional aesthetics
-- **Smooth Animations** - Fluid transitions and micro-interactions
-- **Responsive Design** - Optimized for desktop, tablet, and mobile devices
-- **Accessibility Features** - Voice control and keyboard navigation support
-
-### 🤖 AI-Powered Task Management
-- **Smart Task Parsing** - Extract title, priority, category, and due dates from natural speech
-- **Contextual Conversations** - AI remembers conversation context and provides relevant suggestions
-- **Intelligent Priority Detection** - Automatically categorizes task urgency from voice input
-- **Natural Date Processing** - Understands "tomorrow", "next week", specific dates, etc.
-
-### 📋 Professional Task Features
-- **Task CRUD Operations** - Create, read, update, and delete tasks
-- **Priority Management** - High, Medium, Low priority levels
-- **Category Organization** - Work, Personal, Learning, Health, Finance, Family
-- **Status Tracking** - Pending and Completed status management
-
-## 🎯 Recent Critical Fixes (v2.0.0)
-
-### ✅ Issues Resolved
-- **Task Persistence**: Fixed tasks vanishing after updates - now saves immediately
-- **Conversation Flow**: Assistant properly resets after task completion
-- **Multi-User Support**: Complete user separation with database abstraction
-- **UI Consistency**: Professional dark theme across all components
-
-### 🚀 New Features
-- **Database Service Layer**: Ready for production database integration
-- **Enhanced Authentication**: Professional login/signup with proper session management
-- **Smart Conversation Management**: AI resets context after each task completion
-- **Immediate Data Persistence**: All changes save instantly with error recovery
-
-## 🚀 Features
-
-### 🎤 Voice Intelligence
-- **Natural Speech Recognition** - Talk to your AI assistant naturally
-- **Voice Synthesis Responses** - AI speaks back with contextual responses
-- **Multi-language Support** - English optimized with extensible language support
-- **Error Recovery** - Graceful handling of speech recognition failures
-
-### 🎨 Futuristic UI/UX
-- **Cyber-themed Design** - Dark theme with neon accents and glassmorphism
-- **Advanced Animations** - Smooth transitions, pulsing effects, and micro-interactions
-- **Neural Network Backgrounds** - Animated grid patterns and particle effects
-- **Responsive Design** - Optimized for desktop, tablet, and mobile devices
-
-### � AI-Powered Task Management
-- **Smart Task Parsing** - Extract title, priority, category, and due dates from natural speech
-- **Contextual Conversations** - AI remembers conversation context and provides relevant suggestions
-- **Intelligent Priority Detection** - Automatically categorizes task urgency from voice input
-- **Natural Date Processing** - Understands "tomorrow", "next week", specific dates, etc.
-
-### 📋 Professional Task Features
-- **Task CRUD Operations** - Create, read, update, and delete tasks
-- **Priority Management** - High, Medium, Low, Urgent priority levels
-- **Category Organization** - Work, Personal, Shopping, Health, Education, Finance
-- **Status Tracking** - Pending, In Progress, Completed, Cancelled
-- **Due Date Management** - Flexible date assignment and tracking
-- **Tag System** - Organize tasks with custom tags
-- **Search & Filter** - Advanced filtering by multiple criteria
+##  Features
 
 ## 🛠️ Technology Stack
 
@@ -363,15 +296,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: ahilxdesigns@gmail.com
-- 💬 Issues: [GitHub Issues](https://github.com/smdspace-dev/AskTo-Do/issues)
+- 📧 Email: contact.thousif+github@gmail.com
+- 💬 Issues: [GitHub Issues](https://github.com/Thousifibrahim/AskTo-Do/issues)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by SmdSpace-dev**
+**Made with ❤️ by THousifibrahim**
 
-[⭐ Star this repo](https://github.com/smdspace-dev/AskTo-Do.git) if you find it helpful!
+[⭐ Star this repo](https://github.com/Thousifibrahim/AskTo-Do.git) if you find it helpful!
 
 </div>
